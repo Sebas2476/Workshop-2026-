@@ -1,0 +1,3 @@
+Permissions are set per file.
+Three slots: owner, group, everyone else.
+This file started out read-only.
