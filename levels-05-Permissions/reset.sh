@@ -5,6 +5,10 @@ GREEN='\033[0;32m'; NC='\033[0m'
  
 rm -rf private
 rm -f greeting.txt .progress
+
+# These get recreated below. Remove them first — a previous reset leaves
+# notes.txt read-only (444), and the heredoc below cannot overwrite it.
+rm -f hello.sh notes.txt secret.txt
  
 cat > hello.sh << 'EOF'
 #!/bin/bash

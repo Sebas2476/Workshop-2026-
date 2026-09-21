@@ -1,502 +1,300 @@
-wagon
-blanket
-turtle
-ivory
-octopus
-cupcake
-pixel
-nectar
-dolphin
-volcano
-kernel
-koala
-pancake
-umbrella
-zephyr
-galaxy
-mirror
-honey
-trumpet
-seashell
-mosaic
-orbit
-tundra
-spiral
-kernel
-nectar
-notebook
-seashell
-zipper
-compass
-scarf
-hamster
-cobalt
-utopia
-lagoon
-bicycle
-valley
-candle
-meteor
-island
-umbrella
-orbit
-pebble
-butterfly
-sparrow
-beacon
-quasar
-quiver
-spiral
-oyster
-signal
-teapot
-beacon
-pepper
-sparrow
-compass
-shadow
-quartz
-crystal
-turtle
-devs
-cobalt
-mango
-anchor
-candle
-velvet
-tundra
-orbit
-bramble
-daisy
-candle
-muffin
-robot
-village
-signal
-mango
-candle
-anchor
-ember
-planet
-jigsaw
-lemon
-acorn
-sparrow
-granite
-yogurt
-ladder
-pebble
-village
-unicorn
-koala
-needle
-hammock
-summit
-garden
-nomad
-tractor
-silver
-breeze
-horizon
-ripple
-octopus
-canyon
-tundra
-goldfish
-shadow
-scarf
-mango
-pillow
-dolphin
-anchor
-timber
-wizard
-turtle
-zenith
-tiger
-firefly
-fountain
-pillow
-yogurt
-kernel
-seashell
-canyon
-ripple
-apple
-lagoon
-marble
-tomato
-iceberg
-spiral
-wagon
-hamster
-beacon
-galaxy
-pillow
-helmet
-needle
-quiver
-frontera
-velvet
-shadow
-pumpkin
-riddle
-robot
-mango
-carrot
-zephyr
-jellybean
-umbrella
-hamster
-timber
-harbor
-kitten
-beacon
-harbor
-goldfish
-candle
-balloon
-trumpet
-jigsaw
-village
-robot
-trumpet
-umbrella
-mango
-scarf
-dinosaur
-sandwich
-waffle
-jacket
-raven
-rainbow
-parrot
-volcano
-guitar
-jigsaw
-drizzle
-lollipop
-violet
-drizzle
-maple
-oracle
-signal
-planet
-bicycle
-crystal
-forest
-hamster
-puzzle
-window
-zipper
-penguin
-rocket
-oracle
-kitten
-timber
-balloon
-teapot
-cobalt
-pancake
-blanket
-hollow
-feather
-pepper
-tractor
-mirror
-oracle
-rocket
-trumpet
-volcano
-meteor
-guitar
-gravel
-garden
-galaxy
-island
-doorbell
-bramble
-rustic
-wander
-muffin
-kernel
-garden
-magnet
-sparrow
-elephant
-honey
-kayak
-quiver
-breeze
-rocket
-garden
-tomato
-helmet
-shadow
-prism
-noodle
-sunflower
-tractor
-garden
-magnet
-dinosaur
-cloud
-horizon
-ocean
-lighthouse
-willow
-utopia
-nectar
-village
-wagon
-beacon
-xylophone
-otter
-dinosaur
-window
-canyon
-engine
-pepper
-carrot
-parrot
-cupcake
-envelope
-quartz
-fossil
-pumpkin
-island
-tractor
-tunnel
-mango
-penguin
-cookie
-oracle
-vortex
-rainbow
-nebula
-glacier
-hollow
-pepper
-turtle
-garden
-ripple
-riddle
-compass
-walnut
-cactus
-elephant
-upward
-trumpet
-walnut
-jacket
-lemon
-gravel
-lollipop
-xylophone
-feather
-umbrella
-wizard
-orchard
-eagle
-scarf
-cookie
-ripple
-lemon
-fossil
-velvet
-wander
-waffle
-saddle
-drizzle
-hamster
-goldfish
-valley
-cookie
-dragon
-sparrow
-sunflower
-carrot
-orbit
-ripple
-ladder
-crystal
-prism
-hamster
-tunnel
-daisy
-magnet
-waterfall
-igloo
-zenith
-anchor
-breeze
-doorbell
-unicorn
-signal
-tunnel
-window
-muffin
-orbit
-dinosaur
-carrot
-lantern
-village
-nomad
-butterfly
-blanket
-puzzle
-valley
-ember
-meadow
-iceberg
-valley
-echo
-silver
-eagle
-marble
-horizon
-acorn
-upward
-compass
-beacon
-oracle
-prism
-oyster
-elephant
-balloon
-upward
-lagoon
-pixel
-pumpkin
-robot
-puppy
-fossil
-jasmine
-quasar
-sunflower
-kettle
-valley
-summit
-oyster
-candle
-galaxy
-bicycle
-orbit
-planet
-waffle
-harbor
-biscuit
-telescope
-rustic
-forest
-guitar
-volcano
-canyon
-jigsaw
-robot
-willow
-honey
-copper
-notebook
-penguin
-hollow
-violet
-umbrella
-mosaic
-nectar
-oracle
-village
-scarf
-volcano
-waffle
-pancake
-notebook
-hamster
-waffle
-raven
-lagoon
-violet
-utopia
-rainbow
-ladybug
-parrot
-turtle
-bramble
-pebble
-helmet
-horizon
-vessel
-river
-snowflake
-blanket
-envelope
-zenith
-butterfly
-ladder
-window
-vessel
-village
-sandwich
-sunflower
-lemon
-cobalt
-ripple
-dolphin
-waterfall
-tiger
-cookie
-otter
-wander
-sandwich
-mosaic
-nomad
-pebble
-vessel
-penguin
-window
-quartz
-quasar
-nebula
-quiver
-kettle
-copper
-quiver
-cobalt
-lantern
-planet
-raccoon
-jacket
-vortex
-umbrella
-fountain
-village
-kernel
-fountain
-utopia
-cobalt
-pancake
-crystal
-shadow
-waffle
-jigsaw
-wizard
-crystal
-guitar
-jellybean
-forest
-parrot
-dragon
-blanket
-lagoon
-zenith
-timber
-echo
-butterfly
-rainbow
-carrot
-quartz
-bramble
-teapot
-zenith
-ripple
-unicorn
+2026-03-14 09:00:10  INFO   mailer     uploaded 616 files
+2026-03-14 09:01:03  INFO   db         connection pool size 629
+2026-03-14 09:01:13  WARN   scheduler  slow query took 3695ms
+2026-03-14 09:01:59  INFO   mailer     job #366 finished
+2026-03-14 09:02:49  INFO   worker     user victor logged in
+2026-03-14 09:03:10  INFO   upload     sent 728 notifications
+2026-03-14 09:03:36  INFO   mailer     user omar logged in
+2026-03-14 09:04:11  INFO   worker     sent 538 notifications
+2026-03-14 09:04:40  INFO   auth       connection pool size 133
+2026-03-14 09:05:28  INFO   api        user omar logged in
+2026-03-14 09:05:38  INFO   worker     connection pool size 412
+2026-03-14 09:06:16  INFO   worker     uploaded 208 files
+2026-03-14 09:06:36  ERROR  worker     failed to write to /var/tmp: no space left
+2026-03-14 09:07:23  INFO   auth       uploaded 680 files
+2026-03-14 09:07:44  INFO   mailer     user priya logged in
+2026-03-14 09:08:33  INFO   api        user omar logged in
+2026-03-14 09:09:23  INFO   scheduler  session refreshed for sebastian
+2026-03-14 09:10:03  INFO   auth       user jordan logged in
+2026-03-14 09:10:54  INFO   scheduler  health check ok
+2026-03-14 09:11:41  INFO   worker     session refreshed for omar
+2026-03-14 09:11:49  INFO   mailer     session refreshed for priya
+2026-03-14 09:12:43  WARN   db         retrying connection (attempt 399)
+2026-03-14 09:12:49  INFO   upload     job #488 queued
+2026-03-14 09:13:35  INFO   cache      job #586 queued
+2026-03-14 09:13:47  INFO   api        cache hit ratio 69%
+2026-03-14 09:14:33  INFO   cache      uploaded 663 files
+2026-03-14 09:14:38  INFO   auth       request handled in 3713ms
+2026-03-14 09:14:49  INFO   cache      cache hit ratio 82%
+2026-03-14 09:15:16  WARN   cache      cache miss storm detected
+2026-03-14 09:15:41  WARN   cache      rate limit near threshold for lena
+2026-03-14 09:16:04  INFO   api        connection pool size 97
+2026-03-14 09:16:21  ERROR  cache      connection timeout after 30s
+2026-03-14 09:16:25  INFO   worker     session refreshed for jordan
+2026-03-14 09:17:03  INFO   cache      cache hit ratio 82%
+2026-03-14 09:17:12  INFO   auth       user amelia logged in
+2026-03-14 09:18:03  INFO   db         session refreshed for marcus
+2026-03-14 09:18:24  INFO   mailer     session refreshed for priya
+2026-03-14 09:19:16  WARN   worker     slow query took 481ms
+2026-03-14 09:19:26  ERROR  auth       upstream returned 502
+2026-03-14 09:19:54  INFO   db         cache hit ratio 83%
+2026-03-14 09:20:40  INFO   upload     uploaded 837 files
+2026-03-14 09:20:46  INFO   worker     job #339 finished
+2026-03-14 09:21:35  INFO   auth       user lena logged in
+2026-03-14 09:22:12  INFO   db         cache hit ratio 50%
+2026-03-14 09:22:22  ERROR  cache      upstream returned 502
+2026-03-14 09:22:47  INFO   cache      job #225 finished
+2026-03-14 09:23:01  INFO   api        uploaded 152 files
+2026-03-14 09:23:05  ERROR  cache      upstream returned 502
+2026-03-14 09:23:48  INFO   upload     session refreshed for priya
+2026-03-14 09:23:54  INFO   cache      request handled in 2001ms
+2026-03-14 09:24:44  INFO   worker     job #849 finished
+2026-03-14 09:25:08  INFO   scheduler  job #469 queued
+2026-03-14 09:26:01  INFO   cache      health check ok
+2026-03-14 09:26:35  INFO   db         job #177 queued
+2026-03-14 09:26:57  INFO   api        health check ok
+2026-03-14 09:27:44  INFO   cache      sent 552 notifications
+2026-03-14 09:28:19  ERROR  worker     failed to write to /var/tmp: no space left
+2026-03-14 09:28:24  INFO   worker     cache hit ratio 58%
+2026-03-14 09:28:49  WARN   scheduler  rate limit near threshold for sebastian
+2026-03-14 09:29:19  INFO   cache      uploaded 323 files
+2026-03-14 09:29:32  ERROR  worker     connection timeout after 30s
+2026-03-14 09:29:48  INFO   scheduler  sent 335 notifications
+2026-03-14 09:29:57  INFO   db         user priya logged in
+2026-03-14 09:30:22  INFO   scheduler  connection pool size 368
+2026-03-14 09:31:02  INFO   worker     user omar logged in
+2026-03-14 09:31:53  INFO   upload     session refreshed for lena
+2026-03-14 09:32:16  INFO   scheduler  connection pool size 202
+2026-03-14 09:32:33  INFO   mailer     job #823 queued
+2026-03-14 09:32:49  WARN   db         cache miss storm detected
+2026-03-14 09:33:12  WARN   worker     rate limit near threshold for amelia
+2026-03-14 09:33:29  INFO   scheduler  session refreshed for priya
+2026-03-14 09:34:12  INFO   scheduler  request handled in 2708ms
+2026-03-14 09:34:58  INFO   upload     uploaded 664 files
+2026-03-14 09:35:04  INFO   worker     session refreshed for priya
+2026-03-14 09:35:15  INFO   upload     sent 495 notifications
+2026-03-14 09:35:18  ERROR  api        failed to write to /var/tmp: no space left
+2026-03-14 09:36:11  INFO   api        health check ok
+2026-03-14 09:36:48  INFO   api        user marcus logged in
+2026-03-14 09:37:29  INFO   cache      health check ok
+2026-03-14 09:37:38  ERROR  api        authentication failed for amelia
+2026-03-14 09:38:11  INFO   scheduler  job #622 queued
+2026-03-14 09:38:30  INFO   cache      job #502 queued
+2026-03-14 09:38:34  INFO   worker     job #377 queued
+2026-03-14 09:39:09  INFO   mailer     job #56 finished
+2026-03-14 09:39:16  INFO   upload     uploaded 93 files
+2026-03-14 09:39:50  INFO   cache      job #576 queued
+2026-03-14 09:40:41  WARN   api        cache miss storm detected
+2026-03-14 09:40:45  INFO   worker     cache hit ratio 72%
+2026-03-14 09:41:37  INFO   mailer     connection pool size 667
+2026-03-14 09:42:14  INFO   cache      uploaded 565 files
+2026-03-14 09:43:03  WARN   worker     cache miss storm detected
+2026-03-14 09:43:58  WARN   cache      disk usage at 69%
+2026-03-14 09:44:45  ERROR  scheduler  failed to write to /var/tmp: no space left
+2026-03-14 09:45:22  INFO   db         health check ok
+2026-03-14 09:45:54  INFO   auth       job #732 finished
+2026-03-14 09:46:27  ERROR  auth       connection timeout after 30s
+2026-03-14 09:46:40  INFO   cache      user lena logged in
+2026-03-14 09:46:58  WARN   mailer     rate limit near threshold for marcus
+2026-03-14 09:47:47  INFO   scheduler  job #757 queued
+2026-03-14 09:48:25  INFO   db         user jordan logged in
+2026-03-14 09:48:50  INFO   mailer     sent 209 notifications
+2026-03-14 09:49:05  INFO   worker     job #650 finished
+2026-03-14 09:49:26  INFO   worker     job #472 finished
+2026-03-14 09:49:51  INFO   upload     session refreshed for amelia
+2026-03-14 09:50:23  INFO   db         sent 261 notifications
+2026-03-14 09:50:55  INFO   db         uploaded 39 files
+2026-03-14 09:51:35  ERROR  scheduler  upstream returned 502
+2026-03-14 09:52:17  INFO   db         request handled in 1266ms
+2026-03-14 09:52:45  ERROR  db         upstream returned 502
+2026-03-14 09:53:36  INFO   api        user amelia logged in
+2026-03-14 09:53:59  INFO   upload     connection pool size 527
+2026-03-14 09:54:28  ERROR  db         failed to write to /var/tmp: no space left
+2026-03-14 09:55:08  INFO   mailer     job #224 finished
+2026-03-14 09:55:57  ERROR  upload     authentication failed for priya
+2026-03-14 09:56:17  INFO   cache      sent 891 notifications
+2026-03-14 09:56:53  WARN   scheduler  disk usage at 75%
+2026-03-14 09:57:21  INFO   api        user lena logged in
+2026-03-14 09:57:27  WARN   cache      retrying connection (attempt 262)
+2026-03-14 09:57:32  WARN   auth       cache miss storm detected
+2026-03-14 09:57:57  INFO   scheduler  connection pool size 667
+2026-03-14 09:58:03  WARN   worker     retrying connection (attempt 8)
+2026-03-14 09:58:45  INFO   cache      connection pool size 718
+2026-03-14 09:59:23  INFO   upload     sent 55 notifications
+2026-03-14 09:59:40  INFO   mailer     connection pool size 16
+2026-03-14 10:00:07  INFO   api        connection pool size 169
+2026-03-14 10:00:42  INFO   auth       job #95 finished
+2026-03-14 10:01:07  ERROR  cache      failed to write to /var/tmp: no space left
+2026-03-14 10:01:53  INFO   mailer     session refreshed for victor
+2026-03-14 10:02:01  INFO   db         connection pool size 365
+2026-03-14 10:02:51  INFO   api        request handled in 2078ms
+2026-03-14 10:03:13  INFO   auth       sent 545 notifications
+2026-03-14 10:03:17  INFO   scheduler  session refreshed for victor
+2026-03-14 10:04:08  INFO   cache      sent 70 notifications
+2026-03-14 10:04:11  INFO   scheduler  health check ok
+2026-03-14 10:04:52  WARN   db         retrying connection (attempt 602)
+2026-03-14 10:05:01  WARN   worker     disk usage at 94%
+2026-03-14 10:05:32  INFO   mailer     health check ok
+2026-03-14 10:06:05  WARN   auth       disk usage at 79%
+2026-03-14 10:06:21  WARN   upload     disk usage at 95%
+2026-03-14 10:06:34  INFO   mailer     cache hit ratio 78%
+2026-03-14 10:06:50  INFO   scheduler  health check ok
+2026-03-14 10:07:08  WARN   mailer     disk usage at 59%
+2026-03-14 10:07:53  INFO   worker     connection pool size 61
+2026-03-14 10:08:43  ERROR  api        upstream returned 502
+2026-03-14 10:09:30  INFO   upload     uploaded 681 files
+2026-03-14 10:09:55  INFO   mailer     uploaded 539 files
+2026-03-14 10:10:22  INFO   auth       job #885 queued
+2026-03-14 10:10:31  WARN   cache      retrying connection (attempt 834)
+2026-03-14 10:11:01  WARN   workshop   backup passphrase rotated, new value: devs
+2026-03-14 10:11:29  WARN   upload     cache miss storm detected
+2026-03-14 10:11:51  INFO   scheduler  user marcus logged in
+2026-03-14 10:12:34  INFO   cache      user omar logged in
+2026-03-14 10:12:44  ERROR  db         failed to write to /var/tmp: no space left
+2026-03-14 10:13:22  INFO   scheduler  job #703 finished
+2026-03-14 10:13:52  INFO   scheduler  user omar logged in
+2026-03-14 10:14:17  INFO   db         request handled in 3351ms
+2026-03-14 10:14:36  INFO   cache      uploaded 359 files
+2026-03-14 10:14:39  INFO   mailer     sent 821 notifications
+2026-03-14 10:15:32  ERROR  db         failed to write to /var/tmp: no space left
+2026-03-14 10:16:11  INFO   worker     health check ok
+2026-03-14 10:16:28  INFO   worker     sent 35 notifications
+2026-03-14 10:17:04  INFO   scheduler  job #792 finished
+2026-03-14 10:17:17  INFO   api        uploaded 113 files
+2026-03-14 10:17:20  INFO   db         sent 654 notifications
+2026-03-14 10:18:05  INFO   upload     job #110 finished
+2026-03-14 10:19:00  INFO   upload     connection pool size 15
+2026-03-14 10:19:27  INFO   scheduler  health check ok
+2026-03-14 10:19:32  INFO   mailer     health check ok
+2026-03-14 10:19:51  INFO   db         health check ok
+2026-03-14 10:20:08  WARN   auth       disk usage at 83%
+2026-03-14 10:20:29  WARN   db         rate limit near threshold for victor
+2026-03-14 10:21:22  INFO   auth       sent 452 notifications
+2026-03-14 10:22:13  INFO   scheduler  health check ok
+2026-03-14 10:22:28  INFO   cache      job #655 finished
+2026-03-14 10:23:09  INFO   scheduler  request handled in 573ms
+2026-03-14 10:23:40  INFO   db         session refreshed for priya
+2026-03-14 10:24:33  WARN   cache      retrying connection (attempt 637)
+2026-03-14 10:24:49  INFO   mailer     health check ok
+2026-03-14 10:24:56  INFO   db         user marcus logged in
+2026-03-14 10:25:16  INFO   db         cache hit ratio 45%
+2026-03-14 10:26:11  INFO   cache      cache hit ratio 90%
+2026-03-14 10:26:24  WARN   scheduler  cache miss storm detected
+2026-03-14 10:26:50  WARN   cache      retrying connection (attempt 656)
+2026-03-14 10:27:32  INFO   worker     uploaded 232 files
+2026-03-14 10:28:05  INFO   mailer     request handled in 2513ms
+2026-03-14 10:28:58  INFO   mailer     user priya logged in
+2026-03-14 10:29:05  INFO   auth       health check ok
+2026-03-14 10:29:12  WARN   auth       rate limit near threshold for jordan
+2026-03-14 10:29:16  INFO   scheduler  cache hit ratio 46%
+2026-03-14 10:29:52  INFO   scheduler  job #863 queued
+2026-03-14 10:30:38  INFO   api        job #372 finished
+2026-03-14 10:31:15  INFO   db         uploaded 881 files
+2026-03-14 10:31:58  INFO   auth       request handled in 3562ms
+2026-03-14 10:32:42  INFO   upload     connection pool size 124
+2026-03-14 10:32:52  WARN   worker     retrying connection (attempt 213)
+2026-03-14 10:33:08  INFO   scheduler  request handled in 1005ms
+2026-03-14 10:33:33  WARN   mailer     retrying connection (attempt 316)
+2026-03-14 10:33:54  INFO   mailer     job #407 finished
+2026-03-14 10:34:20  INFO   api        sent 325 notifications
+2026-03-14 10:35:09  INFO   cache      job #275 queued
+2026-03-14 10:35:17  INFO   scheduler  cache hit ratio 79%
+2026-03-14 10:35:49  ERROR  worker     unhandled exception in job #48
+2026-03-14 10:36:41  INFO   mailer     user lena logged in
+2026-03-14 10:36:49  ERROR  cache      database deadlock on table sessions
+2026-03-14 10:37:07  INFO   worker     sent 629 notifications
+2026-03-14 10:37:10  INFO   db         session refreshed for omar
+2026-03-14 10:38:02  INFO   mailer     health check ok
+2026-03-14 10:38:10  INFO   auth       job #57 finished
+2026-03-14 10:38:58  ERROR  auth       unhandled exception in job #502
+2026-03-14 10:39:50  ERROR  cache      connection timeout after 30s
+2026-03-14 10:40:24  WARN   api        retrying connection (attempt 34)
+2026-03-14 10:40:29  INFO   db         uploaded 542 files
+2026-03-14 10:40:58  INFO   api        job #411 finished
+2026-03-14 10:41:23  ERROR  api        connection timeout after 30s
+2026-03-14 10:41:28  ERROR  worker     unhandled exception in job #8
+2026-03-14 10:41:41  INFO   upload     connection pool size 101
+2026-03-14 10:42:06  WARN   mailer     cache miss storm detected
+2026-03-14 10:42:37  ERROR  scheduler  database deadlock on table sessions
+2026-03-14 10:43:10  ERROR  cache      unhandled exception in job #728
+2026-03-14 10:43:26  INFO   auth       uploaded 504 files
+2026-03-14 10:43:37  INFO   db         user victor logged in
+2026-03-14 10:43:48  INFO   mailer     sent 24 notifications
+2026-03-14 10:44:21  INFO   mailer     job #434 queued
+2026-03-14 10:44:38  INFO   cache      user omar logged in
+2026-03-14 10:45:33  INFO   db         connection pool size 743
+2026-03-14 10:45:44  WARN   mailer     rate limit near threshold for lena
+2026-03-14 10:46:12  INFO   cache      uploaded 880 files
+2026-03-14 10:46:15  INFO   auth       session refreshed for amelia
+2026-03-14 10:47:05  WARN   auth       rate limit near threshold for jordan
+2026-03-14 10:47:58  INFO   db         sent 62 notifications
+2026-03-14 10:48:35  INFO   upload     sent 126 notifications
+2026-03-14 10:48:45  INFO   cache      uploaded 237 files
+2026-03-14 10:49:09  INFO   scheduler  job #200 finished
+2026-03-14 10:49:45  INFO   cache      session refreshed for lena
+2026-03-14 10:49:54  INFO   api        sent 97 notifications
+2026-03-14 10:50:30  INFO   cache      job #21 finished
+2026-03-14 10:50:41  WARN   api        rate limit near threshold for marcus
+2026-03-14 10:50:52  INFO   api        job #68 finished
+2026-03-14 10:51:42  INFO   scheduler  request handled in 444ms
+2026-03-14 10:51:49  INFO   worker     connection pool size 781
+2026-03-14 10:52:06  WARN   upload     disk usage at 61%
+2026-03-14 10:52:11  INFO   upload     uploaded 108 files
+2026-03-14 10:52:30  WARN   auth       rate limit near threshold for sebastian
+2026-03-14 10:52:42  WARN   cache      slow query took 1293ms
+2026-03-14 10:52:45  INFO   worker     user priya logged in
+2026-03-14 10:53:40  ERROR  auth       upstream returned 502
+2026-03-14 10:54:16  WARN   db         retrying connection (attempt 652)
+2026-03-14 10:55:11  WARN   api        retrying connection (attempt 180)
+2026-03-14 10:55:58  INFO   scheduler  uploaded 813 files
+2026-03-14 10:56:32  INFO   worker     health check ok
+2026-03-14 10:56:59  INFO   scheduler  job #144 queued
+2026-03-14 10:57:29  WARN   scheduler  slow query took 1295ms
+2026-03-14 10:57:57  INFO   api        health check ok
+2026-03-14 10:58:25  INFO   mailer     job #589 queued
+2026-03-14 10:58:51  INFO   worker     request handled in 3395ms
+2026-03-14 10:59:38  WARN   cache      retrying connection (attempt 807)
+2026-03-14 11:00:05  INFO   mailer     connection pool size 639
+2026-03-14 11:00:26  WARN   scheduler  rate limit near threshold for sebastian
+2026-03-14 11:00:40  ERROR  mailer     authentication failed for amelia
+2026-03-14 11:01:26  INFO   mailer     connection pool size 607
+2026-03-14 11:01:51  ERROR  cache      database deadlock on table sessions
+2026-03-14 11:01:56  INFO   auth       cache hit ratio 91%
+2026-03-14 11:02:36  INFO   scheduler  connection pool size 744
+2026-03-14 11:02:44  ERROR  auth       connection timeout after 30s
+2026-03-14 11:02:58  INFO   auth       session refreshed for sebastian
+2026-03-14 11:03:06  INFO   scheduler  job #191 finished
+2026-03-14 11:03:42  WARN   api        rate limit near threshold for priya
+2026-03-14 11:03:49  INFO   mailer     connection pool size 823
+2026-03-14 11:04:09  WARN   scheduler  retrying connection (attempt 486)
+2026-03-14 11:04:40  INFO   api        user victor logged in
+2026-03-14 11:05:31  INFO   upload     health check ok
+2026-03-14 11:05:45  ERROR  db         upstream returned 502
+2026-03-14 11:05:56  INFO   cache      job #161 finished
+2026-03-14 11:06:28  INFO   worker     cache hit ratio 51%
+2026-03-14 11:07:18  INFO   cache      user sebastian logged in
+2026-03-14 11:08:01  INFO   auth       sent 186 notifications
+2026-03-14 11:08:35  WARN   api        disk usage at 71%
+2026-03-14 11:09:08  ERROR  cache      database deadlock on table sessions
+2026-03-14 11:09:38  INFO   db         request handled in 3511ms
+2026-03-14 11:09:45  WARN   mailer     cache miss storm detected
+2026-03-14 11:10:11  INFO   auth       uploaded 781 files
+2026-03-14 11:10:15  INFO   db         health check ok
+2026-03-14 11:10:18  ERROR  worker     failed to write to /var/tmp: no space left
+2026-03-14 11:11:09  INFO   db         uploaded 747 files
+2026-03-14 11:11:50  INFO   db         sent 16 notifications
+2026-03-14 11:11:56  ERROR  mailer     database deadlock on table sessions
+2026-03-14 11:12:03  INFO   api        job #686 queued
+2026-03-14 11:12:45  INFO   upload     session refreshed for sebastian
+2026-03-14 11:13:06  INFO   auth       request handled in 1357ms
+2026-03-14 11:13:27  INFO   cache      job #307 queued
+2026-03-14 11:13:44  INFO   scheduler  cache hit ratio 81%
+2026-03-14 11:14:23  INFO   cache      user marcus logged in
+2026-03-14 11:14:43  INFO   worker     health check ok
+2026-03-14 11:15:24  INFO   workshop   passphrase issued to attendees: frontera
+2026-03-14 11:15:54  INFO   upload     session refreshed for amelia
+2026-03-14 11:16:46  INFO   upload     uploaded 30 files
+2026-03-14 11:17:14  ERROR  worker     unhandled exception in job #421
+2026-03-14 11:17:27  INFO   api        job #215 finished
+2026-03-14 11:17:34  INFO   scheduler  user jordan logged in
+2026-03-14 11:17:54  INFO   mailer     connection pool size 802

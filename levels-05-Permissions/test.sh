@@ -9,12 +9,18 @@ DIM='\033[2m'; BOLD='\033[1m'; NC='\033[0m'
 SHOW_CMD=false
 [ "$1" = "--hint" ] || [ "$1" = "-h" ] && SHOW_CMD=true
 
+# Fresh clone: git cannot store file modes (444, 640...), so the level's
+# starting permissions have to be laid down by reset.sh on first run.
+if [ ! -f .progress ]; then
+  bash ./reset.sh >/dev/null 2>&1
+fi
+
 STATE=".progress"
 [ -f "$STATE" ] || : > "$STATE"
 seen()     { grep -qx "$1" "$STATE" 2>/dev/null; }
 remember() { seen "$1" || echo "$1" >> "$STATE"; }
 
-mode() { stat -c %a "$1" 2>/dev/null; }
+mode() { stat -c %a "$1" 2>/dev/null || stat -f %Lp "$1" 2>/dev/null; }
 # Test the owner's bits directly. [ -w ] and [ -x ] lie when you are root.
 owner_has() { # owner_has <file> <4|2|1>
   local m; m=$(mode "$1"); [ -z "$m" ] && return 1
@@ -168,7 +174,8 @@ echo -e "  ${BOLD}${bar}${NC}  $passed / 5 steps complete"
 echo
 
 if [ $passed -eq 5 ]; then
-  echo -e "  ${GREEN}${BOLD}Level 05 complete.${NC} On to Level 06."
+  echo -e "  ${GREEN}${BOLD}Level 05 complete.${NC}"
+  echo -e "  That is the last level — you made it through all five."
   echo
   exit 0
 fi

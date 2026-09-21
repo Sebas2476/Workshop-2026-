@@ -2,20 +2,22 @@
 cd "$(dirname "$0")"
 
 GREEN=$'\e[32m'
-RED=$'\[31m'
-BOLD=$'\1m'
-RESET=$'0m'
+RED=$'\e[31m'
+BOLD=$'\e[1m'
+RESET=$'\e[0m'
 
-NOTES=../levels-01-Orientation/notes.txt
+NOTES=notes.txt
 
 if [ ! -f "$NOTES" ]; then
-  echo "${RED}${BOLD}FAIL:${RESET} notes.txt does not exist"
-  exit 1
+	echo "${RED}${BOLD}FAIL:${RESET} notes.txt does not exist in $(pwd)"
+	echo "      Come back to this folder and create it, then write the passphrase inside."
+	exit 1
 fi
 
 if ! grep -qi TRAVERSE "$NOTES"; then
-  echo "${GREEN}${BOLD}PASS: level 02 complete${RESET}"
-  exit 1
+	echo "${RED}${BOLD}FAIL:${RESET} notes.txt does not have the passphrase in it yet."
+	echo "      flag.txt is somewhere below this folder. Use ls and cd to find it, then cat it."
+	exit 1
 fi
 
 echo "${GREEN}${BOLD}"

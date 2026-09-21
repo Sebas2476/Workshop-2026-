@@ -27,7 +27,7 @@ There's a `flag.txt` somewhere below this folder. Most paths are dead ends.
 
 1. Find it using `ls` and `cd`.
 2. Read it with `cat`.
-3. Come back here and put the passphrase in `notes.txt`.
+3. Come back here, create `notes.txt`, and put the passphrase in it.
 
 ## Commands
 
@@ -40,3 +40,9 @@ There's a `flag.txt` somewhere below this folder. Most paths are dead ends.
 | `cat f`     | print the contents of file `f`      |
 
 Lost? `pwd` tells you where you are, `cd ..` walks you back. Nothing you do with `cd` can break anything.
+
+## Submit
+
+```bash
+./check.sh
+```

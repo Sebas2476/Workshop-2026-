@@ -6,7 +6,7 @@ You are in a terminal, and here is what you will be assigned to do.
 
 1. Find out which directory you are by typing `pwd` command.
 2. Find out who you are by typing `whoami` command
-3. Create a .txt file and paste your outputs of the 2 previous commands within the .txt file.
+3. Create a file called `notes.txt` and paste the output of both commands into it.
 4. Verify that you did as expected by running the bash script (submission instructions below) 
 
 
@@ -24,6 +24,6 @@ You are in a terminal, and here is what you will be assigned to do.
 ## Submit
 
 ```bash
-bash check.sh 1 
+./check.sh
 ```
 
