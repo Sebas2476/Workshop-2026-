@@ -1,4 +1,0 @@
-frontera
-devs
-
-(dev note, delete the pass phrase later, wanted to test out the unit test) 

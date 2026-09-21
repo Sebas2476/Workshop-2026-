@@ -2,8 +2,8 @@
 
 Every file decides who can read it, write to it, and run it.
 
-You already changed these once. `chmod +x test.sh` in the last level was you
-flipping a permission bit.
+Up to now every file you touched already had the permissions it needed.
+This level is about setting them yourself.
 
 Run `ls -l` and look at the first column.
 
@@ -32,3 +32,12 @@ In `ls -l`, the first column reads in threes: owner, group, everyone else.
 `r` is 4, `w` is 2, `x` is 1. Add them per slot: `rwx` is 7, `rw-` is 6, `r--` is 4.
 
 Run `ls -l` before every `chmod`. That's the habit.
+
+## Submit
+
+```bash
+./test.sh
+```
+
+Stuck? `./test.sh --hint` shows the exact command.
+Want to start the level over? `./reset.sh`

@@ -33,3 +33,12 @@ If it's gone, you moved it when you should have copied it.
 `cp` needs `-r` for directories. `mv` doesn't.
 
 Run `ls` on a path before you `rm` it. That's the habit
+
+## Submit
+
+```bash
+./test.sh
+```
+
+Stuck? `./test.sh --hint` shows the exact command.
+Want to start the level over? `./reset.sh`

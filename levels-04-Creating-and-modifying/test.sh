@@ -110,7 +110,7 @@ echo
 if [ ! -f field-notes.txt ] && [ "${ST[3]}" != "error" ] \
    && [ ! -f archive/2026/notes-2026.txt ] && [ ! -f archive/2026/field-notes.txt ]; then
   echo -e "  ${RED}field-notes.txt is not in this directory.${NC}"
-  echo -e "  This level needs it as a starting file. Restore it, then run ./test.sh again."
+  echo -e "  This level needs it as a starting file. Run ${BOLD}./reset.sh${NC} to restore it."
   echo
   exit 1
 fi

@@ -1,0 +1,11 @@
+.DS_Store
+
+# Per-attendee state and files the levels generate. Not repo content.
+.progress
+levels-01-Orientation/notes.txt
+levels-02-Navigation/notes.txt
+levels-03-Readingfiles/answers.txt
+levels-04-Creating-and-modifying/archive/
+levels-04-Creating-and-modifying/notes-2026.txt
+levels-05-Permissions/private/
+levels-05-Permissions/greeting.txt
